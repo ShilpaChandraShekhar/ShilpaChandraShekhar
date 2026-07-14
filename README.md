@@ -111,17 +111,17 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&bg_color=1A0B2E&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&border_color=6A0DAD"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&border_color=6A0DAD"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShilpaChandraShekhar&show_icons=true&theme=tokyonight&bg_color=1A0B2E&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&border_color=6A0DAD"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShilpaChandraShekhar&layout=compact&theme=tokyonight&bg_color=1A0B2E&title_color=C77DFF&text_color=E0AAFF&border_color=6A0DAD"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&background=1A0B2E&border=6A0DAD&stroke=9D4EDD&ring=C77DFF&fire=E0AAFF&currStreakLabel=E0AAFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShilpaChandraShekharE&theme=tokyonight&background=1A0B2E&border=6A0DAD&stroke=9D4EDD&ring=C77DFF&fire=E0AAFF&currStreakLabel=E0AAFF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=1A0B2E&color=E0AAFF&line=9D4EDD&point=C77DFF&area=true&area_color=6A0DAD&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShilpaChandraShekhar&bg_color=1A0B2E&color=E0AAFF&line=9D4EDD&point=C77DFF&area=true&area_color=6A0DAD&hide_border=true"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=darkhub&margin-w=10&margin-h=10&column=4&title=Grandmaster,Gold,Silver,Bronze"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ShilpaChandraShekhar&theme=darkhub&margin-w=10&margin-h=10&column=4&title=Grandmaster,Gold,Silver,Bronze"/>
 
 <!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/ShilpaChandraShekhar/ShilpaChandraShekhar/output/github-contribution-grid-snake.svg" width="100%"/>
 
 <!-- Animated skill orbit -->
 <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,aws,git,html,css&theme=dark" />
